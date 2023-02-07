@@ -1,5 +1,5 @@
 # Discord Slash Commands Bot
-A template for making your own discord bot with slash commands. If you require help either DM Starlinkboy#0159 on discord or mail Starlinkboy at starlinkboy@starlinkboy.cf.
+A template for making your own discord bot with slash commands. If you require help either DM Starlinkboy#0159 on discord or mail Starlinkboy at starlinkboy@starlinkboy.cf. We recommend you to use StarlinkHosting as a provider.
 
 ## Start
 1. Open Secrets
